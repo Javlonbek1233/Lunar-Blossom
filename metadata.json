@@ -1,0 +1,6 @@
+{
+  "name": "Lunar Blossom",
+  "description": "An immersive cinematic experience featuring a magical anime character in a dreamy, moonlit cherry blossom garden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
